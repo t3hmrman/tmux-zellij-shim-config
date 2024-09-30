@@ -2,7 +2,7 @@
 
 This repository contains a [Zellij][zellij] configuration that makes `zellij` feel a lit more like [`tmux`][tmux]
 
-> ![NOTE]
+> [!NOTE]
 > If you don't know what either of these tools are, you might want to check out [terminal multiplexers on wikipedia][wiki-terminal-multiplexers]
 
 This repository contains two files:
